@@ -1,0 +1,11 @@
+Flask==0.10.1
+Jinja2==2.7.1
+MarkupSafe==0.18
+Werkzeug==0.9.4
+colander==0.9.9
+iso8601==0.1.8
+itsdangerous==0.23
+lark==0.0.4
+redis==2.8.0
+translationstring==1.1
+wsgiref==0.1.2
